@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    text-align: center;
+}
+.heder{
+    margin-top: 120px;
+    font-variant: normal;
+    font-style: oblique;
+    color: brown;
+   
+}
+.heder:hover{
+    color: blueviolet;
+}
+.input{
+    font-size: 15px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    color: red
+}
+#Username{
+    margin-top: 35px;
+    
+}
+#amount{
+    margin-top: 25px; 
+   
+}
+#submit{
+    margin-top: 20px;
+    padding: 5px 10px;
+}
+#submit:hover{
+    color:blueviolet;
+}
+#pick{
+    margin-top: 10px;
+    padding: 5px 10px;
+}
+#pick:hover{
+color: blueviolet;
+}
+.who{
+    color: black;
+    font-variant: normal;
+}
+.who:hover{
+    color:blueviolet;
+}
+table{
+    border-collapse: collapse;
+    width: 25%;
+    margin-top: 30px;
+    margin: 50px auto;
+}
+
+table, th, td{
+    border: 1px solid black;
+    padding: 6px;
+}
+td{
+    font-size: 15px;
+    color: red;
+}
+th{
+    color:black;
+    font-variant: normal;
+}
+#container{
+    background-image: url(./birr\ 2.jpg);
+    
+}
+#displaywinner{
+    color:black;
+}
+.navbar-brand{
+    color: brown;
+    padding-right: 1500px;
+    font-size: x-large;
+   
+}
+.navbar-brand:hover{
+    color: aqua;
+
+}
